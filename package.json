@@ -13,6 +13,11 @@
     "grunt-contrib-imagemin": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0",
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "scripts": {
+    "start": "grunt build && node index.js"
   }
 }

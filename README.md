@@ -1,21 +1,11 @@
-# Web Jumpstart
+# Loudio
 
 #### Installation
 ```
-yarn install
+npm install
 ```
 
-#### Watchtask
-```
-grunt
-```
-
-#### Cleaning
-```
-grunt clean
-```
-
-#### Building
-```
-grunt build
+### start
+````
+npm start
 ```
